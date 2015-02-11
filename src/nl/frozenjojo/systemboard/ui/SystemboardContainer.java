@@ -165,7 +165,7 @@ public class SystemboardContainer extends JPanel implements TreeSelectionListene
 						}
 						else
 						{
-							JOptionPane.showMessageDialog(null, "Unable to open the file.\nSomething wierd happend.\nCode:\n"+e1);
+							JOptionPane.showMessageDialog(null, "Unable to open the file.\nSomething weird happend.\nCode:\n"+e1);
 						}
 						e1.printStackTrace();
 					}
