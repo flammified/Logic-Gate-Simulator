@@ -1,0 +1,19 @@
+class circuit:
+
+	hashmap outputvalues:
+	Output1: 5.0
+	Output2: 2.5
+	Output3: 0.0
+	etc.
+
+
+Class output:
+
+	Circuit c
+	float getvalue:
+	c.getvalue
+
+
+Class input:
+	Output out
+	value = out.getvalue
