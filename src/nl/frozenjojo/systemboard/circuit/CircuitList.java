@@ -24,7 +24,8 @@ public class CircuitList {
 				VarVoltageCircuit.class,
 				ADConvertorCircuit.class, 
 				InputColorLampCircuit.class,
-				TanCircuit.class
+				TanCircuit.class,
+				FloorCircuit.class
 			};
 	
 	public static Circuit createInstance(int type, int x, int y) 
