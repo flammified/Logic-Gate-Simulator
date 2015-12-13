@@ -7,7 +7,12 @@ It was first written to replace a educational tool we had to use, which had some
 Feel free to experiment with various gate or adding gates yourself.
 My personal goal is to be able to control the RPi GPIO ports with this board and control something with logic gates instead of programming.
 
-I hope you will enjoy it :)
+
+Installation
+============
+
+IF you want to build it from the source code, clone the repository and build it with the java compiler.
+Otherwise, download it from the releases and run the jar file.
 
 Example image
 ===========
